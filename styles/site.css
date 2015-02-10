@@ -23,6 +23,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Alegreya Sans', sans-serif;
 }
 
+h2 {
+  color: #e46965;
+  font-size: 40px;
+  font-weight: normal;
+  margin: 15px 0;
+}
+
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -84,4 +91,10 @@ header h3 {
   font-size: 20px;
   color: #e46965;
   margin-bottom: 20px;
+}
+
+/* -------------- FEATURE SECTION ------------ */
+
+.feature {
+  background-color: #363636;
 }
