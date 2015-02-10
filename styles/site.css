@@ -98,3 +98,9 @@ header h3 {
 .feature {
   background-color: #363636;
 }
+
+.feature-list {
+  list-style: none;
+  background: url('../images/feature-bg.jpg') top center no-repeat;
+  height: 300px;
+}
