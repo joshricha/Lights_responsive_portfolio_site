@@ -1,3 +1,6 @@
+/* -------RED TEXT = #e46965 */
+/* -------GREY TEXT = #777 */
+
 @import url(http://fonts.googleapis.com/css?family=Alegreya+Sans:400,700);
 
 /* ------------- RESET -------------- */
@@ -62,4 +65,23 @@ nav {
 
 .social-list li {
   margin-left: 20px;
+}
+
+/* -------------- HEADER --------------- */
+
+header h1, header h3 {
+  font-weight: normal;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 44px;
+  color: #e46965;
+  margin-top: 20px;
+}
+
+header h3 {
+  font-size: 20px;
+  color: #e46965;
+  margin-bottom: 20px;
 }
