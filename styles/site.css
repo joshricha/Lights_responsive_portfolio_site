@@ -409,4 +409,9 @@ html[xmlns] .clearfix {
   .feature-video {
     background-position: center right;
   }
+
+  .col-one-third {
+    float: none;
+    width: 100%;
+  }
 }
